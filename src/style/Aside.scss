@@ -1,0 +1,40 @@
+#asidenav {
+    z-index: 0;
+    position: fixed;
+    margin-top: 20vh;
+    img {
+        margin-left: 1vw;
+        margin-top: 3vh;
+        width: 2vw;
+        height: 3vh;
+    }
+}
+
+ul {
+    margin-top: 2vh;
+    padding: 0;
+    li {
+        list-style-type: none;
+    }
+    li:hover {
+        cursor: pointer;
+    }
+}
+
+.trapeze1 {
+    z-index: -1;
+    height: 38vh;
+    position: fixed;
+    border-left: 10vh inset rgba(146, 146, 146, 0.75);
+    border-bottom: 2vw inset transparent;
+    border-top: 2vw inset transparent;
+}
+
+.trapeze2 {
+    z-index: -2;
+    height: 38vh;
+    position: fixed;
+    border-left: 10.5vh inset hsla(226, 100%, 64%, 0.5);
+    border-bottom: 2vw inset transparent;
+    border-top: 2vw inset transparent;
+}
