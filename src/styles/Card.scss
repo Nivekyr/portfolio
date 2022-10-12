@@ -1,0 +1,25 @@
+.projectCard {
+    color: black !important;
+}
+
+.projectCard>h1 {
+    color: navy;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.projectCard:nth-child(odd)>h1 {
+    color: black;
+}
+
+.projectCard:nth-child(odd) {
+    background-color: #c0b2b2;
+}
+
+.projectCard:hover {
+    cursor: pointer;
+}
+
+.colorTitle {
+    color: darkcyan;
+}

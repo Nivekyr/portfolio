@@ -1,0 +1,127 @@
+.heroBlock {
+    height: 100vh;
+    width: 100vw;
+    background-color: #262a2e;
+    margin-left: 0 !important;
+    color: white;
+}
+
+p {
+    letter-spacing: 0.25rem;
+    font-size: 1.35rem;
+}
+
+.leftBlock>p {
+    margin-left: 7.5vw;
+    margin-top: 5vh;
+    text-align: justify;
+    width: 31vw;
+}
+
+.leftBlock {
+    border: 2px solid white;
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+}
+
+.rightBlock {
+    border: 2px solid white;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+}
+
+.moi {
+    max-width: 30vw;
+}
+
+.passionsCard {
+    object-fit: cover;
+    margin-bottom: 5vh !important;
+    padding: 0 !important;
+    max-height: 30vh;
+    margin-left: 3vw;
+}
+
+.passionsTitle {
+    margin-bottom: 5vh !important;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.tech {
+    overflow-x: scroll;
+}
+
+.techLogo {
+    max-width: 5vw;
+    max-height: 10vh;
+    object-fit: contain;
+}
+
+.textTechLogo {
+    max-width: 100%;
+    position: absolute;
+    font-weight: 700;
+    margin-left: 75vw;
+}
+
+.techText {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.techLB {
+    overflow-y: scroll;
+    max-height: 100vh;
+}
+
+.techLB::-webkit-scrollbar {
+    width: 8px;
+}
+
+.techLB::-webkit-scrollbar-track {
+    background: #949494;
+}
+
+.techLB::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+}
+
+.contactBlock {
+    height: 50vh;
+    width: 100vw;
+    background-color: #262a2e;
+    margin-left: 0 !important;
+    color: white;
+}
+
+.contactLogo {
+    margin-top: 10vh !important;
+    max-width: 5vw;
+    max-height: 10vh;
+    object-fit: contain;
+}
+
+.resume {
+    max-height: 5vh;
+}
+
+.resume>button {
+    width: 15vw !important;
+}
+
+.gameSite {
+    margin-left: 7.5vw;
+    margin-top: 5.5vw !important;
+    max-width: 35vw !important;
+    max-height: 35vh;
+    padding: 0 !important;
+}
+
+.gameSite>img {
+    object-fit: cover;
+}
