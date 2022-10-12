@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bd0db553.css",
+    "main.js": "/portfolio/static/js/main.f5242c75.js",
+    "static/js/787.615c5fa3.chunk.js": "/portfolio/static/js/787.615c5fa3.chunk.js",
+    "static/media/music.jpg": "/portfolio/static/media/music.e1644153dadac6b8ec6f.jpg",
+    "static/media/games.jpg": "/portfolio/static/media/games.729c3c7bccd53cabc0a8.jpg",
+    "static/media/testimage.png": "/portfolio/static/media/testimage.4d5deca7ff1a5139d4ee.png",
+    "static/media/astronomy.jpg": "/portfolio/static/media/astronomy.daf99f2a3e658bd0c9d5.jpg",
+    "static/media/Myself.jpg": "/portfolio/static/media/Myself.84865760e74d7a44a958.jpg",
+    "static/media/dev.jpg": "/portfolio/static/media/dev.3223fddc035a1922d3a7.jpg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/react.png": "/portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.c5da83bb9ff45b84e0e7.png",
+    "static/media/c-sharp.png": "/portfolio/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/node-js.png": "/portfolio/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/vegas.png": "/portfolio/static/media/vegas.7a7d45a5f9db4bed1ea8.png",
+    "static/media/php.png": "/portfolio/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.86cdb54cc5fc9c392ebd.png",
+    "static/media/unity.png": "/portfolio/static/media/unity.019f8df7ed8f6732ddc1.png",
+    "static/media/photoshop.png": "/portfolio/static/media/photoshop.047cad202c4a70579aa2.png",
+    "static/media/github1.png": "/portfolio/static/media/github1.05f6c17b8cd04c28456f.png",
+    "static/media/html-5.png": "/portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/symfony.png": "/portfolio/static/media/symfony.be6e19749b69f0b0e2fa.png",
+    "index.html": "/portfolio/index.html",
+    "main.bd0db553.css.map": "/portfolio/static/css/main.bd0db553.css.map",
+    "main.f5242c75.js.map": "/portfolio/static/js/main.f5242c75.js.map",
+    "787.615c5fa3.chunk.js.map": "/portfolio/static/js/787.615c5fa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0db553.css",
+    "static/js/main.f5242c75.js"
+  ]
+}
